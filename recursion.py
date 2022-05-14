@@ -22,3 +22,5 @@ if __name__ == "__main__":
     f = factorial_ternary(5)
     print(f"{f}")
     countdown(10)
+
+import ds.stack as Stack
